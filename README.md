@@ -1,2 +1,2 @@
 # floaty-image
-Floating image/GIF tool.
+Floating image/GIF tool.☁️🥰
